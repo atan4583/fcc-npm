@@ -1,0 +1,20 @@
+{
+  "name": "@audt/workspace",
+  "version": "1.0.1",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "audt",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atan4583/fcc-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atan4583/fcc-npm/issues"
+  },
+  "homepage": "https://github.com/atan4583/fcc-npm#readme",
+  "dependencies": {}
+}
